@@ -12,6 +12,3 @@ FES model construction
 
 imgSplit.py	  
 split video into images containg region of interest
-
-exampleImage	  
-the images of one fiber, which is the first one from data se
